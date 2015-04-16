@@ -1,0 +1,3 @@
+C:\Users\Animal\Documents\comp7051_n7-92\Game04\N7-92_game4\N7-92_game4\N7-92_game4Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZacBell\Desktop\BCIT\s5\COMP7051\project\Game04\N7-92_game4\N7-92_game4\N7-92_game4Content\obj\x86\Debug\N7-92_game4Content.contentprojResolveAssemblyReference.cache
+C:\Users\A00820822\Documents\dev\project\Game04\N7-92_game4\N7-92_game4\N7-92_game4Content\obj\x86\Debug\N7-92_game4Content.contentprojResolveAssemblyReference.cache
